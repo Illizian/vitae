@@ -1,6 +1,6 @@
 {
   "name": "illizian-vitae",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Alex Scotton's curriculum vitae in a CLI",
   "bin": {
     "vitae": "bin/illizian-vitae"
