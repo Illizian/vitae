@@ -1,0 +1,54 @@
+{
+	"version": "0.1.0",
+	"data": [
+		{
+			"name": "About Alex",
+			"data": [
+				"I live in Norwich(UK), with my beautiful girlfriend Mez. Put simply I'm a massive Geek. I love all things tech, am a firm believer in an open and borderless internet, and am an open source advocate.",
+				"",
+				"Professionaly, I am a Web Developer at Everpress & Brilliant Basics, and co-founder of a Form Analytics company.",
+				"",
+				"In my spare time, I enjoy Cycling, watching films, HackerNews (yes - that's an activity all of it's own), Listening to music, and dabbling in the latest developer frameworks, tools and engines."
+			]
+		},
+		{
+			"name": "Personal Information",
+			"data": [
+				"Address: 99F Rosary Road, Norwich, NR1 4BX",
+				"Tel: 01603 768361",
+				"Mob: 07462 136837",
+				"Email: alex@alexscotton.com",
+				"Web: https://www.alexscotton.com"
+			]
+		},
+		{
+			"name": "Work History",
+			"data": [
+				"Oct 2013 - Current",
+				"Associate Developer at Brilliant Basics",
+				"Brilliant Basics is a global design and product studio. I worked as an Associate Developer and worked on a wide array of projects & products. Working mostly in Laravel, I was responsible for efficient & scalable backend systems.",
+				"",
+				"Nov 2012 - Oct 2013",
+				"Website Co-Ordinator at Anglian Home Improvements",
+				"I worked in the Digital Marketing team within Anglian’s National Marketing Department and was responsible for timely updates to a range of mediums including the core Marketing & Sales site (http://www.anglianhome.co.uk), reporting on core performance metrics (of Web Assets) and supporting various other marketing ventures."
+			]
+		},
+		{
+			"name": "Projects",
+			"data": [
+				"OurLib - Build & Launch a Startup in 54 Hours",
+				"I attended SyncNorwich's SyncTheCity event and together with my team we won the competition.",
+				"We built two applications (Web and Mobile), one platform (Node.js) and a business model to support the venture going forward.",
+				"Read more: http://www.ourlib.co.uk/",
+				"",
+				"FormFrog - A Form Analytics Startup",
+				"FormFrog is Form Analytics solution which provides data on how your visitors are using your checkout, survey, signup or contact forms. Along with giving you a clearer picture of form performance, FormFrog gives you a second chance to contact those visitors who left enough info to contact but didn't complete your forms (for whatever reason).",
+				"Read more: http://getformfrog.com",
+				"",
+				"Laravel Notifications - A notification package for Laravel",
+				"I created a package for Laravel to ease adding a notification layer to your application.",
+				"Read more: https://github.com/Illizian/laravel-notifications"
+			]
+		}
+	]
+}

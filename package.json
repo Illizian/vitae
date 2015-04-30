@@ -1,0 +1,18 @@
+{
+  "name": "illizian-vitae",
+  "version": "0.1.0",
+  "description": "Alex Scotton's curriculum vitae in a CLI",
+  "bin": {
+    "vitae": "bin/illizian-vitae"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^0.8.2",
+    "lodash": "^3.7.0",
+    "request": "^2.55.0"
+  }
+}

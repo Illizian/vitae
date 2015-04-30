@@ -1,0 +1,8 @@
+#!/usr/bin/env node
+vitae = require('../lib/vitae');
+
+vitae.getContent(function() {
+	vitae.generateFormattedContent()
+		 .generateMainMenu()
+		 .showMenu();
+});
